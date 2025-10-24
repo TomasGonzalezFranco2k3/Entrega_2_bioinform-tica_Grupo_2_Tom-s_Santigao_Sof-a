@@ -1,0 +1,54 @@
+  7.98	59	59	U	0	unclassified
+ 92.02	680	0	R	1	root
+ 91.75	678	0	R1	131567	  cellular organisms
+ 91.75	678	0	D	2	    Bacteria
+ 89.72	663	1	P	1224	      Proteobacteria
+ 89.31	660	0	C	1236	        Gammaproteobacteria
+ 89.17	659	0	O	91347	          Enterobacterales
+ 89.17	659	630	F	543	            Enterobacteriaceae
+  3.25	24	0	G	561	              Escherichia
+  3.11	23	20	S	562	                Escherichia coli
+  0.41	3	0	S1	37762	                  Escherichia coli B
+  0.41	3	3	S2	413997	                    Escherichia coli B str. REL606
+  0.14	1	1	S	1499973	                Escherichia marmotae
+  0.54	4	1	G	590	              Salmonella
+  0.41	3	2	S	28901	                Salmonella enterica
+  0.14	1	0	S1	59201	                  Salmonella enterica subsp. enterica
+  0.14	1	0	S2	1243577	                    Salmonella enterica subsp. enterica serovar Milwaukee
+  0.14	1	1	S3	1243578	                      Salmonella enterica subsp. enterica serovar Milwaukee str. SA19950795
+  0.14	1	0	G	620	              Shigella
+  0.14	1	0	S	622	                Shigella dysenteriae
+  0.14	1	1	S1	300267	                  Shigella dysenteriae Sd197
+  0.14	1	0	O	72274	          Pseudomonadales
+  0.14	1	0	F	468	            Moraxellaceae
+  0.14	1	0	G	469	              Acinetobacter
+  0.14	1	1	S	40215	                Acinetobacter junii
+  0.27	2	0	C	28211	        Alphaproteobacteria
+  0.27	2	0	O	766	          Rickettsiales
+  0.27	2	0	F	942	            Anaplasmataceae
+  0.27	2	0	F1	952	              Wolbachieae
+  0.27	2	0	G	953	                Wolbachia
+  0.27	2	0	S	263437	                  Wolbachia endosymbiont of Culex quinquefasciatus
+  0.27	2	2	S1	570417	                    Wolbachia endosymbiont of Culex quinquefasciatus Pel
+  2.03	15	0	D1	1783272	      Terrabacteria group
+  1.49	11	0	P	201174	        Actinobacteria
+  1.49	11	0	C	1760	          Actinobacteria
+  1.49	11	0	O	85009	            Propionibacteriales
+  1.49	11	0	F	31957	              Propionibacteriaceae
+  1.49	11	0	G	1912216	                Cutibacterium
+  1.49	11	11	S	1747	                  Cutibacterium acnes
+  0.54	4	0	P	1239	        Firmicutes
+  0.54	4	0	C	91061	          Bacilli
+  0.54	4	0	O	1385	            Bacillales
+  0.54	4	0	F	90964	              Staphylococcaceae
+  0.54	4	0	G	1279	                Staphylococcus
+  0.27	2	2	S	1282	                  Staphylococcus epidermidis
+  0.27	2	1	S	1292	                  Staphylococcus warneri
+  0.14	1	1	S1	1194526	                    Staphylococcus warneri SG1
+  0.27	2	0	D	10239	  Viruses
+  0.27	2	0	D1	35237	    dsDNA viruses, no RNA stage
+  0.27	2	0	O	28883	      Caudovirales
+  0.27	2	0	F	10699	        Siphoviridae
+  0.27	2	0	F1	1910999	          Tunavirinae
+  0.27	2	0	G	187217	            T1virus
+  0.27	2	2	S	1921008	              Escherichia virus T1

@@ -1,0 +1,71 @@
+  0.43	78	78	U	0	unclassified
+ 99.57	18211	20	R	1	root
+ 95.83	17527	0	D	10239	  Viruses
+ 95.83	17527	0	D1	35237	    dsDNA viruses, no RNA stage
+ 95.83	17527	0	O	28883	      Caudovirales
+ 95.83	17527	0	F	10699	        Siphoviridae
+ 95.83	17527	0	F1	1910999	          Tunavirinae
+ 95.83	17527	510	G	187217	            T1virus
+ 92.35	16889	16889	S	1921008	              Escherichia virus T1
+  0.55	100	0	S	1921004	              Escherichia virus ADB2
+  0.55	100	100	S1	1216926	                Escherichia phage ADB-2
+  0.11	20	0	S	1921005	              Shigella virus PSf2
+  0.11	20	20	S1	1572702	                Shigella phage pSf-2
+  0.04	8	8	S	1002724	              Shigella virus Shfl1
+  3.63	664	0	R1	131567	  cellular organisms
+  3.63	664	0	D	2	    Bacteria
+  3.58	655	0	P	1224	      Proteobacteria
+  3.56	651	0	C	1236	        Gammaproteobacteria
+  3.55	650	0	O	91347	          Enterobacterales
+  3.55	650	630	F	543	            Enterobacteriaceae
+  0.09	16	0	G	561	              Escherichia
+  0.07	12	8	S	562	                Escherichia coli
+  0.01	2	0	S1	37762	                  Escherichia coli B
+  0.01	2	2	S2	413997	                    Escherichia coli B str. REL606
+  0.01	1	1	S1	83334	                  Escherichia coli O157:H7
+  0.01	1	1	S1	1038927	                  Escherichia coli O104:H4
+  0.01	2	2	S	208962	                Escherichia albertii
+  0.01	1	0	S	564	                Escherichia fergusonii
+  0.01	1	1	S1	585054	                  Escherichia fergusonii ATCC 35469
+  0.01	1	1	S	1499973	                Escherichia marmotae
+  0.01	1	1	G	590	              Salmonella
+  0.01	1	0	G	620	              Shigella
+  0.01	1	0	S	623	                Shigella flexneri
+  0.01	1	0	S1	42897	                  Shigella flexneri 2a
+  0.01	1	1	S2	198214	                    Shigella flexneri 2a str. 301
+  0.01	1	0	G	158483	              Cedecea
+  0.01	1	1	S	158822	                Cedecea neteri
+  0.01	1	0	G	544	              Citrobacter
+  0.01	1	1	S	545	                Citrobacter koseri
+  0.01	1	0	O	72274	          Pseudomonadales
+  0.01	1	0	F	468	            Moraxellaceae
+  0.01	1	0	G	475	              Moraxella
+  0.01	1	1	S	34062	                Moraxella osloensis
+  0.02	3	0	C	28211	        Alphaproteobacteria
+  0.02	3	0	O	204457	          Sphingomonadales
+  0.02	3	0	F	41297	            Sphingomonadaceae
+  0.01	2	0	G	165695	              Sphingobium
+  0.01	1	1	S	13690	                Sphingobium yanoikuyae
+  0.01	1	1	S	1673076	                Sphingobium hydrophobicum
+  0.01	1	0	G	13687	              Sphingomonas
+  0.01	1	0	S	152682	                Sphingomonas melonis
+  0.01	1	1	S1	621456	                  Sphingomonas melonis TY
+  0.01	1	0	C	28216	        Betaproteobacteria
+  0.01	1	0	O	80840	          Burkholderiales
+  0.01	1	0	F	506	            Alcaligenaceae
+  0.01	1	1	G	222	              Achromobacter
+  0.05	9	0	D1	1783272	      Terrabacteria group
+  0.03	5	0	P	201174	        Actinobacteria
+  0.03	5	0	C	1760	          Actinobacteria
+  0.03	5	0	O	85009	            Propionibacteriales
+  0.03	5	0	F	31957	              Propionibacteriaceae
+  0.03	5	0	G	1912216	                Cutibacterium
+  0.03	5	5	S	1747	                  Cutibacterium acnes
+  0.02	4	0	P	1239	        Firmicutes
+  0.02	4	0	C	91061	          Bacilli
+  0.02	4	0	O	1385	            Bacillales
+  0.02	3	0	F	90964	              Staphylococcaceae
+  0.02	3	3	G	1279	                Staphylococcus
+  0.01	1	0	F	186817	              Bacillaceae
+  0.01	1	0	G	1386	                Bacillus
+  0.01	1	1	G1	86661	                  Bacillus cereus group
