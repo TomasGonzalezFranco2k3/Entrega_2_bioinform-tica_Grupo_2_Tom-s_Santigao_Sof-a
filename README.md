@@ -1,9 +1,9 @@
 # Entrega_2_bioinform-tica_Grupo_2_Tom-s_Santigao_Sof-a
 
 
-Este repositorio contiene todo lo relacionado con la segunda entrega del proyecto de bioinformática.
+***Este repositorio contiene todo lo relacionado con la segunda entrega del proyecto de bioinformática.***
 
-Aquí se encontrarán elementos como 
+**Aquí se encontrarán elementos como** 
 
 1. Archivos de clasificación taxonómica (Kraken2/Centrifuge) + visualización Krona.
 
@@ -19,23 +19,23 @@ Aquí se encontrarán elementos como
 
 5. Informe PDF (4 págs. máx.) con:
 
-  a) Descripción de clasificación taxonómica.
+    *a) Descripción de clasificación taxonómica.*
   
-  b) Tabla con variantes seleccionadas.
+    *b) Tabla con variantes seleccionadas.*
   
-  c) Discusión breve sobre variantes de interés.
+    *c) Discusión breve sobre variantes de interés.*
 
 
 6. Los scripts necesarios para reproducir el flujo de trabajo asumiendo que todo lo pertinente a la entrega 1 se corrió en la misma ubicación
 
-  El orden de ejecución de los scripts es el siguiente:
+   El orden de ejecución de los scripts es el siguiente:
 
-  a) setup_kraken.sh
+    *a) setup_kraken.sh*
 
-  b) taxonomy.sh
+     *b) taxonomy.sh*
 
-  c) variants.sh
+     *c) variants.sh*
 
-  d) annotation.sh
+    *d) annotation.sh*
 
-  e) snpeff.sh
+     *e) snpeff.sh*
